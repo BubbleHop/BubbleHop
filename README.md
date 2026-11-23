@@ -8,3 +8,5 @@ Free Bee Swarm Simulator automation with server hopping and a web dashboard.
 - Relay rooms for coordinating multiple accounts.
 - Planter management, honey conversion and loot tracking.
 - Live dashboard statistics, account groups and remote controls.
+- Config text import/export with automatic saving and loading.
+- Red-hive Main presets, a Searcher preset and private per-account room keys.
