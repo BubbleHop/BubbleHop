@@ -12,3 +12,4 @@ Free Bee Swarm Simulator automation with server hopping and a web dashboard.
 - Red-hive Main presets, a Searcher preset and private per-account room keys.
 - Independent hop targets and selectable sprout loot priorities.
 - Boss fights and ready-planter tasks completed before hopping.
+- Walking boss routes, Coconut Crab platform and optional Baby Love preparation.
