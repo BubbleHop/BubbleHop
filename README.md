@@ -10,3 +10,5 @@ Free Bee Swarm Simulator automation with server hopping and a web dashboard.
 - Live dashboard statistics, account groups and remote controls.
 - Config text import/export with automatic saving and loading.
 - Red-hive Main presets, a Searcher preset and private per-account room keys.
+- Independent hop targets and selectable sprout loot priorities.
+- Boss fights and ready-planter tasks completed before hopping.
