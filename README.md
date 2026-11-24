@@ -16,3 +16,5 @@ Free Bee Swarm Simulator automation with server hopping and a web dashboard.
 
 - Separate headless searcher: reports Vicious Bees, Windy Bees and sprouts, then hops.
 - Searchers sharing the main room key appear automatically in its dashboard.
+- Read-only personal room key with copy/reset controls.
+- Discord mentions limited to scheduled hourly stats reports.
