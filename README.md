@@ -14,7 +14,9 @@ Free Bee Swarm Simulator automation with server hopping and a web dashboard.
 - Boss fights and ready-planter tasks completed before hopping.
 - Walking boss routes, Coconut Crab platform and optional Baby Love preparation.
 
-- Separate headless searcher: reports Vicious Bees, Windy Bees and sprouts, then hops.
+- Separate headless searcher: reports Vicious Bees, Windy Bees, Mondo Chicks and sprouts, then hops.
 - Searchers sharing the main room key appear automatically in its dashboard.
 - Read-only personal room key with copy/reset controls.
-- Discord mentions limited to scheduled hourly stats reports.
+- Searchers send one server-find alert with a join link; empty servers stay silent.
+- Main accounts send only hourly reports with cumulative session totals and useful loot.
+- Sessions restart after an hour inactive; only hourly reports can ping.
