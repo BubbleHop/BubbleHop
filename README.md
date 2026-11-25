@@ -1,15 +1,20 @@
 # BubbleHop
 
-Free Bee Swarm Simulator automation with server hopping and a web dashboard.
+Free Bee Swarm Simulator automation for farming, server hopping, and managing multiple accounts from a web dashboard.
 
-- Independent Vicious Bee, Windy Bee, Mondo Chick and sprout farming targets.
-- Eight sprout rarities, loot priorities and selectable rare-item tweening.
-- King Beetle, Tunnel Bear and Coconut Crab fights with optional Baby Love preparation.
-- Continuous loot collection with precise high-speed approaches and ready-planter harvesting before hopping.
-- Planter automation with nectar priorities and field degradation awareness.
-- Fixed walking up to 140, dynamic walking up to 2.5x and automatic anti-slide mass.
-- Eight performance toggles and optional Balloon Blessing refresh.
-- Automatic settings persistence, config text import/export and red-hive presets.
-- Personal room keys, linked headless searchers and dashboard statistics and controls.
-- Searcher server-find alerts with levels, confirmed gifted Vicious Bees and join links.
-- Cumulative hourly session reports, manual reports and sessions reset after an hour inactive.
+## Main script
+
+- Choose which targets to farm. Enable Vicious Bee, Windy Bee, Mondo Chick, and sprouts independently. Pick from eight sprout rarities and prioritize the loot you want.
+- Fight King Beetle, Tunnel Bear, and Coconut Crab with optional Baby Love preparation. Collect drops and harvest ready planters before hopping.
+- Manage planters by nectar priority and field degradation. Refresh Balloon Blessing automatically if enabled.
+- Tune walking speed, rare loot movement, and performance. Settings save automatically and support presets and text import and export.
+
+## Searcher
+
+- A lightweight script for spare accounts that scans servers and shares sightings with your main account using its room key.
+- Discord alerts show what was found, levels when available, and a server join link. The alert labels a Vicious Bee as gifted when applicable.
+
+## Dashboard and reports
+
+- See linked accounts, farming totals, and loot in one place. Start, stop, or hop accounts from the dashboard.
+- Get hourly Discord reports with cumulative session totals, or send one manually.
