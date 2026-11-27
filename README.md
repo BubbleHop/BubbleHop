@@ -13,10 +13,10 @@ Free Bee Swarm Simulator automation for farming, server hopping, and managing mu
 
 ## Searcher
 
-- A lightweight script for spare accounts that scans servers and shares sightings with your main account using its room key. It also reports sleeping Vicious Bees from their Waiting Thorn.
+- A lightweight script for spare accounts that scans servers and shares sightings with your main account using its room key. It also reports sleeping Vicious Bees from their Waiting Thorn, sprout pollen, player counts and night, skips servers other searchers just checked, and holds its slot in a full server until the main arrives.
 - Discord alerts show what was found, levels when available, and a server join link. The alert labels a Vicious Bee as gifted when applicable.
 
 ## Dashboard and reports
 
-- See linked accounts, farming totals, and loot in one place. Start, stop, or hop accounts from the dashboard.
+- See linked accounts, farming totals, and loot in one place. Start, stop, hop, update or push a config to accounts from the dashboard.
 - Get hourly Discord reports with cumulative session totals, or send one manually.
